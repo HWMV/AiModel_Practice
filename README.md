@@ -1,7 +1,3 @@
-# Test
-# Test
-# Test
-# Test
-# Test
-# Test
-# Test
+# 의류 이미지 분류 AI 모델 공부해보기!
+
+### 정리는 나중에 할겁니다~
